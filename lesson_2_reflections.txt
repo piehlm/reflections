@@ -1,0 +1,3 @@
+what happens when you initialize a repository? why do you need to do it?
+
+it creates the .git file that will contain the history.  It creates the repository for the directory
