@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+using FC command in the command prompt was a great way to compare file contents.
+it quickly showed each place where the code differed, allowing me to see where the changes occurred
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+easier to see code that worked or didn't work.
+gives you the full library of things you've tried
